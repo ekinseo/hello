@@ -8,6 +8,7 @@ public class Test {
         System.out.println("Hello");
         System.out.println("Hello again");
         System.out.println("Hello Second");
+        System.out.println("Aladin");
     }
     
     public void chageNumber(Number number) {
